@@ -24,7 +24,7 @@ These tools can be used individually or combined for more complex audio analysis
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/dynamic-timewarping-toolkit.git
+   git clone https://github.com/osama-khalid/dynamic-timewarping-toolkit.git
    cd dynamic-timewarping-toolkit
    ```
 
