@@ -1,0 +1,27 @@
+# Audio processing libraries
+librosa
+pydub
+praat-parselmouth
+
+# Machine learning and audio analysis
+torch
+torchaudio
+transformers
+pyannote.audio
+
+# YouTube download
+pytubefix
+
+# Text processing
+phonemizer
+
+# Data processing and visualization
+numpy
+tqdm
+
+# Utility
+gdown
+
+# Additional dependencies (versions may need adjustment)
+espeak-ng==1.51
+wav2vec2-lv-60-espeak-cv-ft==0.1.0
