@@ -1,4 +1,4 @@
-# Audio Analysis Toolkit
+# Dynamic Timewarping Toolkit
 
 This repository contains a set of Python scripts for various audio analysis tasks, including speaker diarization, YouTube audio downloading, and phoneme/formant analysis.
 
@@ -12,7 +12,7 @@ This repository contains a set of Python scripts for various audio analysis task
 
 ## Overview
 
-The Audio Analysis Toolkit is a collection of Python scripts designed to perform various audio processing and analysis tasks. It includes tools for:
+The Dynamic Timewarping Toolkit is a collection of Python scripts designed to perform various audio processing and analysis tasks. It includes tools for:
 
 - Speaker diarization (identifying who spoke when in an audio file)
 - Downloading audio from YouTube videos
@@ -24,8 +24,8 @@ These tools can be used individually or combined for more complex audio analysis
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/audio-analysis-toolkit.git
-   cd audio-analysis-toolkit
+   git clone https://github.com/yourusername/dynamic-timewarping-toolkit.git
+   cd dynamic-timewarping-toolkit
    ```
 
 2. Set up a virtual environment (recommended):
