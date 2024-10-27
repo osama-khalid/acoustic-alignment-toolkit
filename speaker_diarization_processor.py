@@ -21,7 +21,7 @@ def initialize_diarization_pipeline(device):
     Initialize and return the speaker diarization pipeline.
     """
     pipeline = Pipeline.from_pretrained(
-        "pyannote/speaker-diarization@2.1",
+        "pyannote/speaker-diarization-3.1",
         use_auth_token=""
     )
     pipeline.to(device)
